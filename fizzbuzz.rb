@@ -3,7 +3,4 @@ def fizzbuzz(int)
     "Fizz"
   end
 end
-if int % 5==0
-  "Buzz"
 
-end
